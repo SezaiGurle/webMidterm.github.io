@@ -1,0 +1,90 @@
+body{
+    background-image: url("lake-pic.jpg");
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+}
+.navbar-text,
+.navbar-brand,
+.nav-link{
+    color: white;
+}
+
+#contactFormSection{
+    display: none; 
+    height: auto;
+    width: 30%;
+    border-radius: 5px;
+    background-color: #f8f9fa; 
+    padding: 20px;
+    margin-left: 3%;
+    margin-top: 10px;
+}
+#contactFormSection h4{
+    text-align: center;
+}
+.mb-3 b{
+    text-decoration: underline;
+}
+.form-select{
+    margin-top: 10px;
+    
+}
+
+.question{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    
+    
+}
+.question h6{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.course-select {
+    height: 100%;
+  }
+  
+  
+  #course-select {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border-color:darkgray;
+  }
+
+  .city-select{
+    height: 100%;
+  }
+
+  #city-select{
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border-color:darkgray;
+  }
+
+  .form-label {
+    font-size: 1.25rem; 
+    margin-top: 10px; 
+}
+
+#button{
+    background-color: #0766AD;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
